@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.aok.codility.skylinepaint.SkylinePaintTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2018-11-13T17:49:20" hostname="MacBook-Pro-MacBook.local" time="9.229">
+  <properties/>
+  <testcase name="arrayOf5And8ArrayShouldReturn8" classname="com.aok.codility.skylinepaint.SkylinePaintTest" time="0.001"/>
+  <testcase name="anotherWeirdArrayShouldReturnCorrectValue" classname="com.aok.codility.skylinepaint.SkylinePaintTest" time="0.01"/>
+  <testcase name="exampleArrayShouldReturnCorrectValue" classname="com.aok.codility.skylinepaint.SkylinePaintTest" time="0.0"/>
+  <testcase name="whenStrokesExceedsThenShouldReturnMinusOne" classname="com.aok.codility.skylinepaint.SkylinePaintTest" time="9.215"/>
+  <testcase name="weirdArrayShouldReturnCorrectValue" classname="com.aok.codility.skylinepaint.SkylinePaintTest" time="0.0"/>
+  <testcase name="arrayOfThreesShouldReturnThree" classname="com.aok.codility.skylinepaint.SkylinePaintTest" time="0.0"/>
+  <testcase name="arrayOfHundredsShouldReturnCorrectValue" classname="com.aok.codility.skylinepaint.SkylinePaintTest" time="0.001"/>
+  <testcase name="anotherSimpleArrayShouldReturnCorrectValue" classname="com.aok.codility.skylinepaint.SkylinePaintTest" time="0.0"/>
+  <testcase name="arrayOfOnesAndTensArrayShouldReturnCorrectValue" classname="com.aok.codility.skylinepaint.SkylinePaintTest" time="0.0"/>
+  <testcase name="arrayOfOnesShouldReturnOne" classname="com.aok.codility.skylinepaint.SkylinePaintTest" time="0.0"/>
+  <testcase name="arrayOf800ShouldReturnCorrectValue" classname="com.aok.codility.skylinepaint.SkylinePaintTest" time="0.0"/>
+  <testcase name="arrayOf9to1to9ShouldReturnCorrectValue" classname="com.aok.codility.skylinepaint.SkylinePaintTest" time="0.0"/>
+  <testcase name="arrayOf1And2ShouldReturn2" classname="com.aok.codility.skylinepaint.SkylinePaintTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
